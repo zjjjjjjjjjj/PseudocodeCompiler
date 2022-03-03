@@ -145,3 +145,4 @@ Basic syntax errors could be reported by the lexer.
 4. https://www.cs.virginia.edu/~cr4bd/flex-manual/Patterns.html#Patterns
 5. https://www.cs.virginia.edu/~cr4bd/flex-manual/Matching.html#Matching
 6. http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/050%20Flex%20In%20A%20Nutshell.pdf 
+7. https://www.baidu.com
